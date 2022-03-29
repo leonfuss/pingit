@@ -1,0 +1,36 @@
+ping_address,response_latency,dropped_packages,timestamp
+google.com<1.1.1.1>,35.44,0,2022-03-29 14:36:53.221971701 +02:00
+ping_address,response_latency,dropped_packages,timestamp
+google.com<1.1.1.1>,57.049,0,2022-03-29 14:36:55.279527814 +02:00
+ping_address,response_latency,dropped_packages,timestamp
+google.com<1.1.1.1>,32.762,0,2022-03-29 14:36:57.313887322 +02:00
+ping_address,response_latency,dropped_packages,timestamp
+google.com<1.1.1.1>,31.833,0,2022-03-29 14:36:59.346225136 +02:00
+ping_address,response_latency,dropped_packages,timestamp
+google.com<1.1.1.1>,13.213,0,2022-03-29 14:37:01.359919818 +02:00
+ping_address,response_latency,dropped_packages,timestamp
+google.com<1.1.1.1>,41.09,0,2022-03-29 14:37:03.401470443 +02:00
+ping_address,response_latency,dropped_packages,timestamp
+google.com<1.1.1.1>,29.74,0,2022-03-29 14:37:05.431675065 +02:00
+ping_address,response_latency,dropped_packages,timestamp
+google.com<1.1.1.1>,35.465,0,2022-03-29 14:37:07.467860974 +02:00
+ping_address,response_latency,dropped_packages,timestamp
+google.com<1.1.1.1>,222.56,0,2022-03-29 14:37:09.691007871 +02:00
+ping_address,response_latency,dropped_packages,timestamp
+google.com<1.1.1.1>,28.147,0,2022-03-29 14:37:11.719742941 +02:00
+ping_address,response_latency,dropped_packages,timestamp
+google.com<1.1.1.1>,54.024,0,2022-03-29 14:37:13.774336942 +02:00
+ping_address,response_latency,dropped_packages,timestamp
+google.com<1.1.1.1>,55.055,0,2022-03-29 14:37:15.829954433 +02:00
+ping_address,response_latency,dropped_packages,timestamp
+google.com<1.1.1.1>,36.916,0,2022-03-29 14:37:17.867391463 +02:00
+ping_address,response_latency,dropped_packages,timestamp
+google.com<1.1.1.1>,19.944,0,2022-03-29 14:37:19.887824804 +02:00
+ping_address,response_latency,dropped_packages,timestamp
+google.com<1.1.1.1>,38.778,0,2022-03-29 15:03:48.105081147 +02:00
+ping_address,response_latency,dropped_packages,timestamp
+google.com<1.1.1.1>,47.936,0,2022-03-29 15:03:50.153602981 +02:00
+ping_address,response_latency,dropped_packages,timestamp
+google.com<1.1.1.1>,66.29,0,2022-03-29 15:03:52.220508505 +02:00
+ping_address,response_latency,dropped_packages,timestamp
+google.com<1.1.1.1>,162.885,0,2022-03-29 15:03:54.384083763 +02:00
